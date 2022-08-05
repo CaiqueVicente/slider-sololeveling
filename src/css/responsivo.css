@@ -1,0 +1,33 @@
+@media (max-width: 620px) {
+    .solo_level{
+        gap: 10px;
+    }
+
+    .btn_seta{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .solo_lista{
+        height: 490px;
+    }
+
+    .cartao .sung{
+        max-height: 230px;
+        
+    }
+
+    .cartao .info .nome {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .cartao .info .vida{
+        font-size: 14px;
+    }
+}
